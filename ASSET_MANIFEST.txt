@@ -1,0 +1,80 @@
+.gitignore
+README.md
+app/api/contact/route.ts
+app/globals.css
+app/layout.tsx
+app/page.tsx
+app/robots.ts
+app/sitemap.ts
+components/BrandActivationExperience.tsx
+components/BrandIntroduction.tsx
+components/CampaignControlCentre.tsx
+components/CampaignPortfolio.tsx
+components/CustomCursor.tsx
+components/DigitalMarketingExperience.tsx
+components/EducationPathway.tsx
+components/FinalConversionSection.tsx
+components/GautengInteractiveMap.tsx
+components/ImageFallback.tsx
+components/MarketingFunnelJourney.tsx
+components/OpeningHero.tsx
+components/RecruiterModeModal.tsx
+components/SiteFooter.tsx
+components/SiteHeader.tsx
+components/VirtualAgencyExperience.tsx
+components/WhyReneilweSection.tsx
+lib/portfolio-data.ts
+lib/sound.ts
+lib/utils.ts
+next.config.js
+package.json
+postcss.config.js
+public/cv/README.txt
+public/cv/Reneilwe_Moagi_Marketing_CV.pdf
+public/images/README.txt
+public/images/brand-activations/activation-01.png
+public/images/brand-activations/activation-02.jpeg
+public/images/brand-activations/activation-03.jpeg
+public/images/brand-activations/activation-04.jpeg
+public/images/brand-activations/activation-05.jpeg
+public/images/brand-activations/activation-06.jpeg
+public/images/brand-activations/activation-07.jpeg
+public/images/brand-activations/activation-08.jpeg
+public/images/brand-activations/activation-09.jpeg
+public/images/brand-activations/activation-10.jpeg
+public/images/brand-activations/activation-11.jpeg
+public/images/brand-activations/activation-12.jpeg
+public/images/brand-activations/activation-13.jpeg
+public/images/brand-activations/activation-14.jpeg
+public/images/brand-activations/activation-15.jpeg
+public/images/brand-activations/activation-16.jpeg
+public/images/brand-activations/activation-17.jpeg
+public/images/brand-activations/activation-18.jpeg
+public/images/brand-activations/activation-19.jpeg
+public/images/brand-activations/activation-20.jpeg
+public/images/brand-activations/activation-21.jpeg
+public/images/brand-activations/activation-22.jpeg
+public/images/brand-activations/candlelight-concert.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.05.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.06 (1).jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.06.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.07.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.08.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.09.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.10 (1).jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.10.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.11 (1).jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.11.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.12.jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.13 (1).jpeg
+public/images/graduate-campaign/WhatsApp Image 2026-10-19 at 16.36.13.jpeg
+public/images/reneilwe-about.jpg
+public/images/reneilwe-graduation-1.jpg
+public/images/reneilwe-graduation-2.jpg
+public/images/reneilwe-portrait.jpg
+public/images/tropika-campaign/WhatsApp Image 2026-10-26 at 17.39.13 (1).jpeg
+public/images/tropika-campaign/WhatsApp Image 2026-10-26 at 17.39.13.jpeg
+public/projects/the-graduate-strategic-marketing-plan.pdf
+public/projects/tropika-red-square-strategy.pdf
+tailwind.config.js
+tsconfig.json
